@@ -54,3 +54,22 @@ Start the JSON server:
 Make sure you have the JSON server set up with the appropriate routes for events. See the Backend Setup section for details.
 ## json-server --watch db.json --port 3001
 
+3. Start the frontend development server:
+ ## npm start
+
+The application should now be running locally at http://localhost:3000.
+
+
+## API
+The frontend of this application interacts with a JSON server as a backend. The JSON server provides the following routes for events:
+
+GET /events: Get a list of all events.
+POST /events: Add a new event.
+GET /events/:id: Get details of a specific event.
+Please refer to the Backend Setup section for more details on setting up the JSON server.
+
+Contributing
+Contributions are welcome! If you find any issues or have ideas for improvements, feel free to create a pull request or open an issue on the GitHub repository.
+
+License
+This project is licensed under the MIT License.
