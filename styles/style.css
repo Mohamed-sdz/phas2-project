@@ -115,4 +115,31 @@
   .footer p {
     margin-bottom: 0;
   }
+
+  /* Media queries */
+
+@media (max-width: 768px) {
+
+    .nav-link {
+      margin-right: 0;
+      margin-bottom: 10px;
+    }
+  
+    .event {
+      margin-bottom: 10px;
+    }
+  
+    .event h3 {
+      font-size: 1.2rem;
+    }
+  
+    .event p {
+      font-size: 1rem;
+    }
+  
+    .event span {
+      font-size: 0.8rem;
+    }
+  
+  }
   
