@@ -74,4 +74,16 @@
     font-weight: 300;
     color: #666;
   }
+  /* Form */
+
+.form-control {
+    border-radius: 0;
+    border-color: #ced4da;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .form-control:focus {
+    box-shadow: none;
+    border-color: #007bff;
+  }
   
