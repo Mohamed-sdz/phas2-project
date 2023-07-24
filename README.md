@@ -25,7 +25,7 @@ Event Scheduler is a single-page React application that allows users to create a
 
 ## Demo
 
-You can see a live demo of the application [here](https://event-scheduler-demo.netlify.app/).
+ 
 
 ## Technologies Used
 
