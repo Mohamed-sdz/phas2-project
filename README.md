@@ -73,3 +73,5 @@ Contributions are welcome! If you find any issues or have ideas for improvements
 
 License
 This project is licensed under the MIT License.
+
+In this `README.md`, i have provided information about the project, its features, technologies used, how to get started, and details on running the application locally. We have also included a link to a live demo, information on how to contribute, and the project's license. Feel free to customize this `README.md` with specific details relevant to your project.
