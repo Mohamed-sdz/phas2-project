@@ -48,4 +48,9 @@ Make sure you have the following software installed on your system:
 ### Installation
 
 1. Install the frontend dependencies:
-npm install 
+ ## npm install 
+2. Running the Application
+Start the JSON server:
+Make sure you have the JSON server set up with the appropriate routes for events. See the Backend Setup section for details.
+## json-server --watch db.json --port 3001
+
