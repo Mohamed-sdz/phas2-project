@@ -2,10 +2,10 @@ import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import { Container, Navbar, Nav } from 'react-bootstrap';
 import { BsPlusCircle } from 'react-icons/bs';
+import EventForm from './components/EventForm';
+import EventList from './components/EventList';
+import EventDetails from './components/EventDetails';
 
-import EventForm from './ components/EventForm';
-import EventList from './ components/EventList';
-import EventDetails from './ components/EventDetails';
 import axios from 'axios';
 
 function App() {

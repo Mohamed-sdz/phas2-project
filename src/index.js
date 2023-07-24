@@ -1,4 +1,4 @@
-// frontend/src/index.js
+ // frontend/src/index.js
 import React from 'react';
 import ReactDOM from 'react-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
