@@ -23,3 +23,21 @@
   .navbar-brand {
     font-weight: 700; 
   }
+  .nav-link {
+    text-transform: uppercase;
+    font-size: .9rem;
+    font-weight: 500;
+    letter-spacing: .1rem;
+    margin-right: 20px;
+    color: #333;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .nav-link:hover {
+    color: #007bff;
+  }
+  
+  .nav-link.active {
+    color: #007bff;
+  }
+  
