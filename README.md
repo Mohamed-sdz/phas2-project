@@ -47,7 +47,5 @@ Make sure you have the following software installed on your system:
 
 ### Installation
 
-1. Clone the repository:
-
-git clone https://github.com/Mohamed-sdz/event-scheduler.git
-cd event-scheduler/frontend
+1. Install the frontend dependencies:
+npm install 
